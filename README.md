@@ -19,3 +19,8 @@ This project includes enhanced AI-powered features with intelligent capabilities
 - Sufficient RAM (4GB+ recommended for Qwen model)
 
 **Note**: The AI Assistant will automatically fallback to enhanced responses if the Qwen model fails to load, ensuring the application always works.
+
+**Note**: Create a .env file and place your credentials 
+          VITE_SUPABASE_PROJECT_ID=""
+          VITE_SUPABASE_PUBLISHABLE_KEY=""
+          VITE_SUPABASE_URL=""
